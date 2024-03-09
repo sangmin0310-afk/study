@@ -1,0 +1,4 @@
+﻿  dasd.cpp
+C:\Users\BIT\Desktop\Project2\Project2\dasd.cpp(149,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\BIT\Desktop\Project2\Project2\dasd.cpp(149,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project2.vcxproj -> C:\Users\BIT\Desktop\Project2\x64\Debug\Project2.exe
